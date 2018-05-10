@@ -47,6 +47,6 @@ Ajax call to send the data to the controller and persist it in the Database
 * **Anas Daoud** 
 
 ## Why Yii2 ?
-* Lots of code scaffolding out if the box
+* Lots of code scaffolding
 * Gii for quick MVC creation
 * PHP core
