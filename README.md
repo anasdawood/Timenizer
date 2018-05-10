@@ -4,10 +4,15 @@ The best Time tracker on the web.
 
 ## Getting Started
 
-1- download XAMP or Apache and place this folder in the htdoc folder.
+1- download XAMP or Apache and place all files in the htdoc folder.
 2- run the sql script in a mySQL database (username: root, password:asd123)
 3- point url to http://localhost/timer/web/index.php?r=timer-activities/index to view the list of all times
 4- point url to http://localhost/timer/web/index.php?r=timer-activities%2Fcreate to view the Timer display
+
+## How Does it work ?
+* click Start to start the timer.
+* add description and click "Book Current Time" to book the time displayd on the timer.
+* Fill discription, Data and time and click "Book Manually" to book a manual entry.
 
 ### Prerequisites
 
